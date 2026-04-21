@@ -1,12 +1,9 @@
 """
-LLM API Interaction Demo
+LLM API 
 Author: Mohammad Anabtawi
 Due: 4/22/2026
 
-Description:
-    This script interacts with the Google Gemini API using Python code
-    (not the web interface). It sends two different prompts, inspects the
-    full response objects, and prints a structured summary of each output.
+
 
 Requirements:
     pip install google-generativeai
