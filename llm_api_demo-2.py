@@ -1,7 +1,6 @@
 """
 LLM API Interaction Demo
-Author: Mo (big papi sharkyblan)
-Course: IST / CS – Penn State Altoona
+Author: Mohammad Anabtawi
 Due: 4/22/2026
 
 Description:
